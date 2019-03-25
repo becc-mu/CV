@@ -98,6 +98,7 @@ Leading on CRM and social media channels management, in liaison with library tea
 Developing, updating and writing content for the school website and all social media channels, ensuring tone, quality and SEO data is up-to-date and correct
 Driving traffic to our website through our social media channels to extend our reach.
 Overseeing and growing our key social media channels, including researching stories on LFS alumni.
+
 **Business Owner** (2008 to 2012)   
 *Armias Herbal - Natural skin care produce*  
 I researched and developed these products blended with essential oils sourced from Ethiopia and the UK. I sold the products online as well as to the general public. During the process of setting up my business, I learnt:  
