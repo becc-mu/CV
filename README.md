@@ -90,6 +90,14 @@ best possible support.
 
 I have been running the Shoreditch Dojo at UsTwo (a digital product and service studio) since March 2018. This group is focussed on app development using Apple's Swift Playgrounds.
 
+**Digital Marketing Manager** (May 2017 to Sep 2017)  
+*The London Film School*  
+Supporting the Head of Communications and Public Affairs and Academic Registrar on the development and implementation of the school’s digital strategy; carrying out and managing many of the digital tactics that will meet their objectives.
+Looking after the day-to-day running of the social media channels and content schedule. 
+Leading on CRM and social media channels management, in liaison with library team, driving recruitment of new students through online profile management, producing content and producing and managing online ad placement.
+Developing, updating and writing content for the school website and all social media channels, ensuring tone, quality and SEO data is up-to-date and correct
+Driving traffic to our website through our social media channels to extend our reach.
+Overseeing and growing our key social media channels, including researching stories on LFS alumni.
 **Business Owner** (2008 to 2012)   
 *Armias Herbal - Natural skin care produce*  
 I researched and developed these products blended with essential oils sourced from Ethiopia and the UK. I sold the products online as well as to the general public. During the process of setting up my business, I learnt:  
