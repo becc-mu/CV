@@ -1,6 +1,6 @@
 <h1 align="center"> Rebecca Mulugeta
-<a align="right" href="https://twitter.com/boozion">
-<img align="right" src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="5" height="42" width="42"></a><a href="https://www.linkedin.com/in/rebeccamulugeta/"><img align="right"  src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="5" height="42" width="42"></a>
+
+<a href="https://www.linkedin.com/in/rebeccamulugeta/"><img align="right"  src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="5" height="42" width="42"></a>
 </h1>
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EXPERIENCE](#experience) |  [EDUCATION](#education) | [INTERESTS](#interests)
