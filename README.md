@@ -5,7 +5,7 @@
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EXPERIENCE](#experience) |  [EDUCATION](#education) | [INTERESTS](#interests)
 
-Tech lover, advocate for Women in Tech and Digital Inclusion. I'm a full-stack developer, graduate of [Makers](https://makers.tech/) Academy and looking contiously working to refine my craft in software development and solve real problems.
+Tech lover, advocate for Women in Tech and Digital Inclusion. I'm a full-stack developer, graduate of [Makers](https://makers.tech/) Academy and contiously working to refine my craft in software development and solve real problems.
 
 I am a proud member and a director of CoderDojo London - a free, volunteer-led, community-based computer programming club for young people.
 
